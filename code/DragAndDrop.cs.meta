@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 6eafe50665da9eb4786f4b8555f780e7
+timeCreated: 1480742792
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - power_sound: {fileID: 8300000, guid: 99d72d05e55612645933007180260b66, type: 3}
+  - click_sound: {fileID: 8300000, guid: 32f6f6e2ed5f5ac49b4cfb12fe80ff53, type: 3}
+  - fire_sound: {fileID: 8300000, guid: 8fbd09833cd02954fb261e5656db1540, type: 3}
+  - hit_sound: {fileID: 8300000, guid: 16f2a6c12c752574084474f729f28419, type: 3}
+  - turn_sound: {fileID: 8300000, guid: 8809889f236dee4458129c489a6c46a2, type: 3}
+  - target: {instanceID: 0}
+  - guage: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

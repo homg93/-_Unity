@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 63d65019dff4eea4f850ad3730d05ce0
+timeCreated: 1480696682
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - menu_click_sound: {fileID: 8300000, guid: 494de569e72d67f4d94335e4fc47af11, type: 3}
+  - mapDrop: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
